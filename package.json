@@ -1,0 +1,20 @@
+{
+  "name": "name_mapper",
+  "version": "1.0.0",
+  "description": "Makes a heatmap out of hitta.se data based on names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hako0",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "node-fetch": "^2.6.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {
+    "node-html-parser": "^1.2.20"
+  }
+}
